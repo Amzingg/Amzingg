@@ -46,14 +46,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amzingg&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amzingg&layout=compact&theme=github_dark" height="165"/>
-</p>
+![Amrutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amzingg&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amzingg&theme=github-dark"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amzingg&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amzingg&layout=compact&theme=radical)
 
 ---
 
