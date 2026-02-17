@@ -82,3 +82,7 @@
 
 ---
 
+💻 **Beyond Code:**  
+Exploring emerging technologies, improving problem-solving skills, and turning ideas into deployable products.
+
+
