@@ -41,7 +41,7 @@
 |-------------|------------|-----------|------------|
 | Life-Dashboard | A responsive personal productivity dashboard to track mood, habits, study hours, and expenses — all in one place. | [View](https://life-dashboard-five-ochre.vercel.app/) | [GitHub](https://github.com/Amzingg/life-dashboard.git) |
 | FaceGuard AI | A deep learning web application that performs **Real vs Fake Face Classification** using Transfer Learning with ResNet50, along with **Grad-CAM visualizations** for model explainability. | [View](https://your-live-link.com) | [GitHub](https://github.com/yourusername/expense-tracker) |
-
+| SmartCare365 |SmartCare365 is a full-stack web application designed to streamline nurse allocation and patient management in hospitals. | [View](https://nurse-allocation-app.vercel.app/) | [GitHub](https://github.com/Amzingg/NURSE-ALLOCATION-APP.git) |
 
 
 
