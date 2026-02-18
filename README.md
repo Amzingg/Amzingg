@@ -39,6 +39,9 @@
 
 | Project Name | Description | Live Demo | Repository |
 |-------------|------------|-----------|------------|
+| Life-Dashboard | A responsive personal productivity dashboard to track mood, habits, study hours, and expenses — all in one place. | [View](https://life-dashboard-five-ochre.vercel.app/) | [GitHub](https://github.com/Amzingg/life-dashboard.git) |
+| FaceGuard AI | A deep learning web application that performs **Real vs Fake Face Classification** using Transfer Learning with ResNet50, along with **Grad-CAM visualizations** for model explainability. | [View](https://your-live-link.com) | [GitHub](https://github.com/yourusername/expense-tracker) |
+
 
 
 
